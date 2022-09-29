@@ -1,4 +1,4 @@
-### Hi, im Konyshev Anton 👋
+### Hi, im Konyshev Anton <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **KonisheffAnton/KonisheffAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=and+here+'s+what+I+can+do)](https://git.io/typing-svg)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonisheffAnton&layout=compact)](https://github.com/KonisheffAnton/github-readme-stats)
