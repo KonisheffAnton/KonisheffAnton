@@ -15,8 +15,8 @@
 - [My learning with Database](https://github.com/KonisheffAnton/BashNipi6.git)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KonisheffAnton&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KonisheffAnton&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KonisheffAnton&theme=github)
 
 [![codewars](https://www.codewars.com/users/crysisprof/badges/large)](https://www.codewars.com/users/crysisprof)
 
