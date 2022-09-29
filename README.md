@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, im Konyshev Anton 👋
 
 <!--
 **KonisheffAnton/KonisheffAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=and+here+'s+what+I+can+do)](https://git.io/typing-svg)
