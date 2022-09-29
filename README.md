@@ -3,7 +3,7 @@
 <h3 align="center">.Net developer</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=and+here+'s+what+I+can+do...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1E90FF&lines=and+here+'s+what+I+can+do...)](https://git.io/typing-svg)
 
 ### C#:
 - [My course work "Chronologica" C#](https://github.com/KonisheffAnton/Hronologica.git)
