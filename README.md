@@ -1,6 +1,6 @@
-<h1 align="center">Hi, im Konyshev Anton</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi, im Konyshev Anton</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
 
-<h3 align="center">.Net developer</h3>
+<h3 align="center">.Net developer</h3><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1E90FF&lines=and+here+'s+what+I+can+do...)](https://git.io/typing-svg)
@@ -24,6 +24,9 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
+
 
 
 
