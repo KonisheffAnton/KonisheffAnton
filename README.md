@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=and+here+'s+what+I+can+do...)](https://git.io/typing-svg)
 
 ### C#:
-- [Курсовая работа по C#](https://github.com/KonisheffAnton/Hronologica.git)
-- [Дипломная работа по Java](https://github.com/Stepashkin63/Netology-diplom)
-- [Игра "Однорукий бандит" на Android](https://github.com/Stepashkin63/SlotMachine)
+- [My course work "Chronologica" C#](https://github.com/KonisheffAnton/Hronologica.git)
+- [My first training project](https://github.com/KonisheffAnton/MobileStore.git)
+- [My learning with Database](https://github.com/KonisheffAnton/BashNipi6.git)
 
 [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonisheffAnton)](https://github.com/KonisheffAnton/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonisheffAnton&layout=compact)](https://github.com/KonisheffAnton/github-readme-stats)
