@@ -10,7 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1E90FF&lines=and+here+'s+what+I+can+do...)](https://git.io/typing-svg)
 
 ### C#:
-
+- [My CRUD EF SQLLite With JavaScript/CSS UI by Razor](https://github.com/KonisheffAnton/CostaDep.git)
+- [My WPF Consumer CRUD EF SQLLite](https://github.com/KonisheffAnton/DocVision.git)
 - [My MVC CRUD EF SQLLite](https://github.com/KonisheffAnton/BRSK.git)
 - [My course work "Chronologica" C#](https://github.com/KonisheffAnton/Hronologica.git)
 - [My first training project](https://github.com/KonisheffAnton/MobileStore.git)
